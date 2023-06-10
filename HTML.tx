@@ -1,0 +1,5 @@
+public class NewScript{
+    public void Function{
+        System.out.println("Hello new File");
+    }
+}
